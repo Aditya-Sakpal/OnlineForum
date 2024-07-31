@@ -42,8 +42,6 @@ INFO - Server started on port 3000.
 ## 📸 Screenshots
 ![screenshot](http://atulmy.com/atulmy.com/attachments/images/fullstack-graphql.gif?v=0.1)
 
-Video: [MOV](http://atulmy.com/atulmy.com/attachments/images/fullstack-graphql.mov)
-
 ## 🏗 Core Structure
     fullstack-graphql
       ├── api (api.example.com)
