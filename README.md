@@ -90,9 +90,6 @@ Video: [MOV](http://atulmy.com/atulmy.com/attachments/images/fullstack-graphql.m
 - Adding new Route (Eg: `/users`):
   - Add a new entry to `routes` object in `/web/src/setup/routes.js` (eg `user: { list: '/list' }`)
   - Edit `/web/src/components/App.js` and add the route entry
-  
-## Sample GraphQL Queries
-These queries are generated on client side using `queryBuilder()` helper defined in `/web/src/setup/helpers.js`
 
 <table width="100%" style="width: 100%">
     <tbody>
@@ -215,33 +212,3 @@ mutation {
         </tr>
     </tbody>
 </table>
-
-## 💬 Community Reviews
-Facebook Groups:
-[NodeJS](https://www.facebook.com/groups/359999434098189/permalink/1373482582749864/) &bull; [ReactJS](https://www.facebook.com/groups/228321510706889/permalink/676529865886049) &bull; [GraphQL](https://www.facebook.com/groups/graphql.community/permalink/1262506487188601)
-
-Reddit:
-[NodeJS](https://www.reddit.com/r/node/comments/7965fy/simple_fullstack_graphql_application_built_with/) &bull; [ReactJS](https://www.reddit.com/r/reactjs/comments/78mtln/simple_fullstack_graphql_application_with_react/) &bull; [GraphQL](https://www.reddit.com/r/graphql/comments/786vpj/simple_fullstack_graphql_application/)
-
-## ⭐ Showcase
-Following projects have been built with or inspired from [fullstack-graphql](https://github.com/atulmy/fullstack-graphql/)
-- Crate - Get monthly subscription of trendy clothes and accessories - [GitHub](https://github.com/atulmy/crate)
-- HIRESMART - Application to streamline hiring process - [GitHub](https://github.com/atulmy/hire-smart)
-- Would really appreciate if you add your project to this list by sending a PR
-
-## Resources
-- Start learning by looking at sample codes: [#LearnByExamples](https://github.com/topics/learn-by-examples)
-
-## 🎩 Authors
-- Atul Yadav - [GitHub](https://github.com/atulmy) &bull; [Twitter](https://twitter.com/atulmy) &bull; [LinkedIn](https://www.linkedin.com/in/atulmy/)
-- Nattatorn Yucharoen - [GitHub](https://github.com/nattatorn-dev)
-
-## 👏 Donate
-If you liked this project, please donate to support it ❤️
-
-[![Donate via PayPal](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/mix/paypal-me-smaller.png)](http://paypal.me/atulmy)
-
-## 📜 License
-Copyright (c) 2017-18 Atul Yadav http://github.com/atulmy
-
-The MIT License (http://www.opensource.org/licenses/mit-license.php)
